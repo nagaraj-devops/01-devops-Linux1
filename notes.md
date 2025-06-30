@@ -4,3 +4,8 @@
 ```
 sudo nano filename.txt
 ``` 
+- To Create folder
+```
+sudo mkdir folder_name
+```
+
