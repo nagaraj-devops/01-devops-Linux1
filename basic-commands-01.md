@@ -1,6 +1,6 @@
-# Basic Commands of Linux and their Purposes
+# 📁 Basic Commands of Linux and their Purposes
 
-## File & Directory Commands
+## 📁 File & Directory Commands
 
 - To Create file
 ```
@@ -53,7 +53,7 @@ sudo mv [source] [destination]
 sudo mv from_file.txt to_file.txt
 ```
 
-## File Viewing & Editing
+## 📄 File Viewing & Editing
 
 - View file content
 ```
